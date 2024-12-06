@@ -8,7 +8,7 @@ public class ArrayListDemo {
 		ArrayList<String> al = new ArrayList<String>();
 		System.out.println("Initial size of al: " + al.size());
 // Add elements to the array list.
-		al.add("C");
+		al.add("A");
 		al.add("A");
 		al.add("E");
 		al.add("B");
